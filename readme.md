@@ -2,9 +2,11 @@
 
 <P>Esse projeto é um radar de velocidade feito com HTML CSS e Javascript</P>
 
-<img src="./imagens/animação.gif">
+![Animação](https://user-images.githubusercontent.com/79489384/156927207-ef43fc7b-20e7-4749-a75d-dd2f955c883c.gif)
+
 
 <hr>
+
 
 <h2>Pré Requisitos</h2>
 
