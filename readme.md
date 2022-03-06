@@ -10,7 +10,7 @@
 
 <h2>Pré Requisitos</h2>
 
-<p>Antes de começar, você vai precisar ter instalado na sua máquina as seguintes ferramentas: <a src="https://git-scm.com/">Git</a>. Além disso é bom ter um bom editor para trabalhar com código como o <a src="https://code.visualstudio.com/">VSCode</a>.</p>
+<p>Antes de começar, você vai precisar ter instalado na sua máquina as seguintes ferramentas: <a href="https://git-scm.com/">Git</a>. Além disso é bom ter um bom editor para trabalhar com código como o <a href="https://code.visualstudio.com/">VSCode</a>.</p>
 
 <hr>
 
